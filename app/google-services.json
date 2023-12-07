@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700305255083",
+    "project_id": "fir-3c335",
+    "storage_bucket": "fir-3c335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700305255083:android:11f8944894e8c8c8f765ee",
+        "android_client_info": {
+          "package_name": "com.example.conectamovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYhFbr8H-Rm43MCuTnxgtb0ku_hvk38E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
